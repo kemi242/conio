@@ -1,0 +1,1 @@
+C/C++ module for handling console input/output. This is a cross-platform implementation of a mostly Borland compatible conio.h (some features are missing and some features added). Compiles under GCC (MinGW) and Clang on both Linux and Windows, but doesn't yet work in MSVC.
